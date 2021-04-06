@@ -75,8 +75,7 @@ En este tipo de configuración ocurre una disminución de ganancia es decir que 
 
 ![](https://github.com/ArielAGH/Laboratorio9/blob/main/Img/3Modelos.png)
 
-## 5. TABLAS DE MEDICIÓN Y CÁLCULOS
-
+## 5. RESULTADOS
 ### Resultados obtenidos para el circuito
 
 Circuito 1
